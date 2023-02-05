@@ -1,4 +1,4 @@
-### Oi meu nome é Armando 👋
+### Oi! Eu sou o Armando
 
 Sobre Mim:
 
