@@ -8,8 +8,6 @@ Sobre Mim:
 - ⚡ Curiosidades: Estou sendo magnetizado para a área de Cybersegurança
 
 
-
-
 <div>
   <a href="https://github.com/armandorodriguesf">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=armandorodriguesf&show_icons=true&theme=tokyonight&include_all_comits=true&count_private=true"/>
