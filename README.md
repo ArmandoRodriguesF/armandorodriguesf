@@ -6,3 +6,8 @@ Sobre Mim:
 - 🌱 Estou estudando Linguagens de Programação Java Script, React e Comandos em terminais Unix/DOS
 - ⚡ Curiosidades: Estou sendo magnetizado para a área de Cybersegurança
 
+<div>
+  <a href="https://github.com/armandorodriguesf">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=armandorodriguesf&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armandorodriguesf&layout=compact&langs_count=16&theme=dracula"/>
+</div>
