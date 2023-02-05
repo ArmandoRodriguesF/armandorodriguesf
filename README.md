@@ -5,9 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on TI
-- 🌱 I’m currently learning Linguagens de Programação
-- 💬 Ask me about Mim
-- 📫 How to reach me: linkedin.com/in/arf-perfil
-- ⚡ Fun fact: Estou sendo magnetizado para a área de Cybersegurança
+- 🔭 Hoje trabalho com TI na área de Governança de TI e Administração de Rede
+- 🌱 Estou estudando Linguagens de Programação Java Script, React e Comandos em terminais Unix/DOS
+- ⚡ Curiosidades: Estou sendo magnetizado para a área de Cybersegurança
 
