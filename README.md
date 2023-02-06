@@ -28,7 +28,8 @@ Sobre Mim:
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"><img align="center" alt="Dinho-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/ArmandoRodriguesF/armandorodriguesf/blob/main/dinho-avatar.png"><img align="right" alt="Dinho-avatar" height="250" src="https://github.com/ArmandoRodriguesF/armandorodriguesf/blob/main/dinho-avatar.png" style="max-width: 250%;"></a>
 </div>
-  
+
+
   <!--
   ## Minhas Redes Sociais
   
